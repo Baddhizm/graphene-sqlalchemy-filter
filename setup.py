@@ -24,7 +24,7 @@ requirements = [
 
 
 setup(
-    name='graphene-sqlalchemy-filter',
+    name='graphene-sqlalchemy-filter-py35',
     version=version,
     description='Filters for Graphene SQLAlchemy integration',
     url='https://github.com/art1415926535/graphene-sqlalchemy-filter',
@@ -35,6 +35,7 @@ setup(
         'Intended Audience :: Developers',
         'Topic :: Software Development :: Libraries',
         'Programming Language :: Python :: 3',
+        'Programming Language :: Python :: 3.5',
         'Programming Language :: Python :: 3.6',
         'Programming Language :: Python :: 3.7',
         'Programming Language :: Python :: Implementation :: PyPy',
